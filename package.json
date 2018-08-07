@@ -1,0 +1,26 @@
+{
+  "name": "tiger-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tiger": "index.js"
+  },
+  "keywords": [],
+  "author": "zengxiaohui <369749456@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.0"
+  },
+  "dependencies": {
+    "del": "^3.0.0",
+    "download-git-repo": "^1.0.2",
+    "inquirer": "^6.0.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^3.0.0"
+  }
+}
