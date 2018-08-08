@@ -1,6 +1,6 @@
 {
   "name": "tiger-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A angular cli tool used to generate scafford",
   "main": "index.js",
   "scripts": {
@@ -12,12 +12,9 @@
   "keywords": [],
   "author": "zengxiaohui <369749456@qq.com>",
   "license": "MIT",
-  "private": false,
-  "devDependencies": {
-    "chalk": "^2.4.1",
-    "commander": "^2.17.0"
-  },
   "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.0",
     "del": "^3.0.0",
     "download-git-repo": "^1.0.2",
     "inquirer": "^6.0.0",
